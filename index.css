@@ -8,3 +8,6 @@ git config --globals credential.helper cache
 git pull
 
 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
+
+git add .
+tfixanet@penguin:~/gitfornoobs$ git commit -m "alert no js"
